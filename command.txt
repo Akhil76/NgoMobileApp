@@ -1,0 +1,7 @@
+
+
+
+
+AndroidApp Useful Dependencies
+
+npm i @react-navigation/drawer @react-navigation/native @react-navigation/native-stack react-native-gesture-handler react-native-reanimated react-native-router react-native-safe-area-context react-native-screens
